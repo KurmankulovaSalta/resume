@@ -1,0 +1,24 @@
+@media all and (max-width: 1026px) {
+  .header__form {
+    width: 70%;
+    margin-left: 500px;
+    display: block;
+    right: 0px;
+  }
+  .header__list {
+    width: 50%;
+  }
+  .header__link {
+    width: 85%;
+  }
+  .header {
+    margin-left: 100px;
+  }
+  .navbar__link {
+    margin-right: 80px;
+    margin-top: 20px;
+  }
+  body {
+    text-align: center;
+  }
+}
